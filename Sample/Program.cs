@@ -13,7 +13,7 @@ namespace Sample
         static void Main(string[] args)
         {
             Console.WriteLine("---Creating conflict between local and remote---\n");
-            Console.WriteLine("This is conflict demo program");
+            Console.WriteLine("This is conflict demo prograem");
 
             Console.Write("Enter first integer value: ");
             int v1 = Convert.ToInt32(Console.ReadLine());
